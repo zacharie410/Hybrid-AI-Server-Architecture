@@ -28,5 +28,5 @@ In HASA, the server offloads certain computational tasks to the clients to reduc
 ## Contributing
 We welcome contributions to the HASA project!
 
-##License
+## License
 HASA is released under the Apache License 2.0, which allows for open and free use of the framework in both commercial and non-commercial projects.
